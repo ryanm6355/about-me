@@ -2,16 +2,16 @@
 
 My _name_ is **Ryan** and I go to **HSTAT**.  
 This is my schedule for school:  
-1. Chemistry
-2. Algebra
-3. English
-4. Lunch
-5. SEP
-6. PE
-7. Global History
-8. Spanish  
+# Chemistry
+## Algebra
+### English
+#### Lunch
+##### SEP
+###### PE
+7, Global History
+8, Spanish  
   
-Some of my favorite games include:
+These are my favorite games :
 * Super Smash Bros. Ultimate
 * Planet Coaster
 * Minecraft
